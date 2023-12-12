@@ -1,6 +1,8 @@
 # klinik_app
 
-A new Flutter project.
+<img src="assets/img/logo_ubsi.png" width="200px"><br>
+
+Klinik App adalaha aplikasi klinik berbasis Mobile dengan menggunakan framewok Flutter. Terdapat 3 
 
 ## Getting Started
 
